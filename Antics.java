@@ -18,7 +18,7 @@
  * </pre>
  * 
  * @author Huilin Reid
- * @author lab 2 partner 
+ * @author Thayssa De Moura
  * @since 09-26-2025
  */
 
